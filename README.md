@@ -1,6 +1,6 @@
 # BAMAZON
 
-### BAMAZON is a small app which allows customers to purchase items stored in our bamazon_DB database. The app uses the Inquirer npm package.
+### BAMAZON is a small app which allows customers to purchase items stored in our bamazon_DB database. The app uses the Inquirer and mySQL npm packages.
 
 1. When you start the app, Bamazon will first display all of the items we have in stock:
 * [Screenshot]
